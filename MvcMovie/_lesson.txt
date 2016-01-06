@@ -1,1 +1,1 @@
-﻿
+﻿http://www.asp.net/mvc/overview/getting-started/introduction/accessing-your-models-data-from-a-controller
